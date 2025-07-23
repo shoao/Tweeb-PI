@@ -119,8 +119,8 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
   <a href="https://github.com/marcosg432">
     <img src="https://github.com/marcosg432.png" alt="Marcos Jatoba" style="border-radius: 50%; width: 60px; height: 60px; margin: 10%">
   </a>
-  <a href="https://github.com/akamedevy">
-    <img src="https://github.com/akamedevy.png" alt="João Almeida" style="border-radius: 50%; width: 60px; height: 60px; margin: 10%">
+  <a href="https://github.com/shoao">
+    <img src="https://github.com/shoao" alt="João Almeida" style="border-radius: 50%; width: 60px; height: 60px; margin: 10%">
   </a>
   <a href="https://github.com/senabeatriz">
     <img src="https://github.com/senabeatriz.png" alt="Beatriz Sena" style="border-radius: 50%; width: 60px; height: 60px; margin: 10%">
